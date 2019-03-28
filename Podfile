@@ -13,7 +13,7 @@ def pods
     pod 'SwiftyJSON'
     
     #pod for UITextfield
-    pod 'IQKeyboardManagerSwift', '5.0.0'
+    pod 'IQKeyboardManagerSwift'
     
     #pod for progress
     pod 'NVActivityIndicatorView', '~> 4.0.0'

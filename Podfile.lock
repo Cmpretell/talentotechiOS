@@ -90,7 +90,7 @@ DEPENDENCIES:
   - Firebase/Auth
   - Firebase/Core
   - Firebase/Database
-  - IQKeyboardManagerSwift (= 5.0.0)
+  - IQKeyboardManagerSwift
   - NVActivityIndicatorView (~> 4.0.0)
   - ReachabilitySwift (~> 3.0)
   - SwiftyJSON
@@ -140,6 +140,6 @@ SPEC CHECKSUMS:
   ReachabilitySwift: f5b9bb30a0777fac8f09ce8b067e32faeb29bb64
   SwiftyJSON: c4bcba26dd9ec7a027fc8eade48e2c911f229e96
 
-PODFILE CHECKSUM: 38e4bf03fcb3534cde963f5e833b24bb0d17b16a
+PODFILE CHECKSUM: b7f38bac8bed288ff3a0474e7624009fca7c3272
 
 COCOAPODS: 1.5.3
