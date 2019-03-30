@@ -10,10 +10,15 @@ Agregar clientes utilizando Google Firebase Real Time Data Base
 Las opciones que presentan son Crear, Listar, Cerrar Sesión
 
 https://github.com/raywenderlich/SC_SusmitaHorrow/wiki/Clean-Architecture-for-iOS
+
 https://medium.com/inloopx/cleaner-architecture-on-ios-ac4027b85d1f
+
 https://medium.com/build-and-run/clean-architecture-en-ios-viper-893c8c3a75a4
 
 
 # Uso de la aplicacion
-Descargar las fuentes
-Ir a la carpeta de fuentes a través  de terminal y ejecutar "pod install"
+- Descargar las fuentes.
+
+- Ir a la carpeta de fuentes a través  de terminal.
+
+- Ejecutar "pod install"
